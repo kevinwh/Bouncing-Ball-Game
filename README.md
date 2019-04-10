@@ -1,4 +1,4 @@
-# Bouncing-Game
+# Bouncing-Ball-Game
 
 My friend and I are designing a simple 3D video game which would let everyone to enjoy. 
 The main idea of this project is inspired by some classic and similar 2D games.  
