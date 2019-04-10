@@ -8,3 +8,5 @@ In the beginning of the game, the player would see a ball bouncing at the first 
 and what the player needs to do is to rotate the layers by mouse to let the ball fall through the empty block to the next layer, 
 each successful falling would award the player by one point. Also, we will paint each layer by two colors, 
 if the ball touches the red area, the player loses.  
+
+Designed by: Ni Yang, Wen Han Tang
