@@ -6,5 +6,5 @@ There would be a big cylindrical pillar located at the centre of the game interf
 lots of cylindrical rings attached to the pillar as layers, and on each layer, there is an empty block. 
 In the beginning of the game, the player would see a ball bouncing at the first layer, 
 and what the player needs to do is to rotate the layers by mouse to let the ball fall through the empty block to the next layer, 
-each successful falling would award the player by one point. Also, we will paint each layer by two colors which are black and red, 
+each successful falling would award the player by one point. Also, we will paint each layer by two colors, 
 if the ball touches the red area, the player loses.  
