@@ -1,6 +1,6 @@
 # Bouncing-Game
 
-We are designing a simple 3D video game which would let everyone to enjoy. 
+My friend and I are designing a simple 3D video game which would let everyone to enjoy. 
 The main idea of this project is inspired by some classic and similar 2D games.  
 There would be a big cylindrical pillar located at the centre of the game interface, 
 lots of cylindrical rings attached to the pillar as layers, and on each layer, there is an empty block. 
